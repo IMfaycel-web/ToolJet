@@ -124,5 +124,3 @@ enforcement ladder](https://github.com/mozilla/diversity).
 https://www.contributor-covenant.org/faq.
 - Translations are available at
 htt
-
-
