@@ -121,4 +121,3 @@ enforcement ladder](https://github.com/mozilla/diversity).
 
 
 - For answers to common questions about this code of conduct, see the FAQs at
-https:
