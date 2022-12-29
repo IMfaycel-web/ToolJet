@@ -120,4 +120,4 @@ Community Impact Guidelines were inspired by [Mozilla's code of conduct
 enforcement ladder](https://github.com/mozilla/diversity).
 
 
-- For answers to common questions about this code of conduct, see the FAQs at
+- For answers to common questions about this code of conduct, see FAQs at
